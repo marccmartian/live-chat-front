@@ -25,4 +25,4 @@ Mas detalle en la documentación oficial de vite.
 ## Producción
 
 A continuación se muestra la demo [Aquí](https://marv-live-chat.netlify.app/).
-Para poder probar el sitio, puedes loguearte con estos usuarios `user1`, `user2`, `user3` con contraseña contraseña 12345. O también puedes crear el tuyo propio, y usar varias pantallas a la vez. para probar el chat.
+Para poder probar el sitio, puedes loguearte con estos usuarios `user1`, `user2`, `user3` con contraseña 12345 y usando varias pantallas a la vez; O también puedes crear tu propio usuario; registrándote.
